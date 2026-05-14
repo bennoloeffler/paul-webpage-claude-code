@@ -1,0 +1,58 @@
+{
+  "identity": {
+    "realName": "Paul Kiefer",
+    "alias": "paulguappe",
+    "tagline": "Basstherapy & Eargasms"
+  },
+  "profession": {
+    "current": "Student",
+    "futureGoal": "Tontechniker",
+    "field": "Tontechnik / Musikproduktion"
+  },
+  "hobbies": [
+    {
+      "name": "Komponieren",
+      "description": "Eigene Songs und Beats schreiben"
+    },
+    {
+      "name": "Produzieren",
+      "description": "Tracks im Studio mixen und mastern"
+    },
+    {
+      "name": "Remixing",
+      "description": "Bootleg-Remixes zwischen Reggae/Dancehall und Trap/HipHop"
+    }
+  ],
+  "music": {
+    "style": "Bass-fokussiert, Crossover Reggae/Dancehall ↔ Trap/HipHop",
+    "selfDescription": "Basstherapy & Eargasms",
+    "knownTracks": [
+      {
+        "title": "Medication (paulus remix)",
+        "originalArtist": "Damian \"Jr. Gong\" Marley",
+        "type": "Remix",
+        "genre": "Reggae / Dancehall Bass",
+        "url": "https://soundcloud.com/paulusromum/damian-jr-gong-marley-medication-paulus-remix"
+      },
+      {
+        "title": "Skrilla (paulus remix)",
+        "originalArtist": "Kodak Black",
+        "type": "Remix",
+        "genre": "Trap / HipHop",
+        "url": "https://soundcloud.com/paulusromum/kodak-black-skrilla-remix"
+      }
+    ]
+  },
+  "links": {
+    "soundcloud": "https://soundcloud.com/paulusromum"
+  },
+  "researchMeta": {
+    "date": "2026-05-14",
+    "sources": [
+      "https://soundcloud.com/paulusromum",
+      "https://soundcloud.com/paulusromum/damian-jr-gong-marley-medication-paulus-remix",
+      "https://soundcloud.com/paulusromum/kodak-black-skrilla-remix"
+    ],
+    "notes": "Daten stammen ausschließlich von der SoundCloud-Persona paulguappe (Slug paulusromum). Ähnliche Aliasse wie 'paulquappe' (z. B. Paul Sichermann) wurden bewusst ausgeschlossen, da sie nicht zu Paul Kiefer gehören."
+  }
+}
